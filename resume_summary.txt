@@ -1,0 +1,8 @@
+Resume summary (2-3 lines):
+Built a Customer Feedback Sentiment Analyzer — a Flask web app in Python that identifies customer sentiment (Positive/Negative/Neutral) using an explainable rule-based algorithm. Includes a clean Microsoft-style UI and a JSON API for integration.
+
+Project bullets (4-6):
+- Implemented a reusable sentiment core module and connected it to a Flask web interface for easy demo.
+- Designed the UI with a Microsoft-like clean theme for professional presentation.
+- Provided an API endpoint for programmatic use and simple Docker support for deployment.
+- Prepared interview-ready documentation and a code explanation guide to demonstrate technical understanding.
